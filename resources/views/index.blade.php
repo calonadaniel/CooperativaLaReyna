@@ -119,7 +119,7 @@
                       <p class="card-text">Bootstrap 4</p>
                       <p class="card-text">HTML5 & CSS</p>
                       <p class="card-text">Javascript</p>
-                      <a href="https://github.com/calonadaniel/CooperativaLaReyna" class="btn btn-primary mb-1">Repositorio Github</a>
+                      <a href="https://github.com/calonadaniel/CooperativaLaReyna" target="_blank" class="btn btn-primary mb-1">Repositorio Github</a>
                     </div>
                   </div>
             </div>
