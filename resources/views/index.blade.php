@@ -116,10 +116,10 @@
                     <div class="card-header bg-primary text-white">Ficha Técnica </div>
                     <div class="card-body text-primary">
                       <p class="card-text">Laravel Framework</p>
-                      <p class="card-text">Bootstrap 5</p>
+                      <p class="card-text">Bootstrap 4</p>
                       <p class="card-text">HTML5 & CSS</p>
                       <p class="card-text">Javascript</p>
-                      <a href="" class="btn btn-primary mb-1">Ver Repositorio</a>
+                      <a href="https://github.com/calonadaniel/CooperativaLaReyna" class="btn btn-primary mb-1">Repositorio Github</a>
                     </div>
                   </div>
             </div>
